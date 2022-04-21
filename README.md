@@ -13,7 +13,7 @@ Se lanza mensaje 'La moneda/denominacion no es permitida en la alcancia'
 #### GET /totalDinero
 Retorna el total agregado hasta el momento
 
-## GET /contarMonedasPorDenominacion/denominacion  -> Donde denominacion es el valor de la moneda a contar
+### GET /contarMonedasPorDenominacion/denominacion  -> Donde denominacion es el valor de la moneda a contar
 
 regresa el numero de monedas por denominación
 
